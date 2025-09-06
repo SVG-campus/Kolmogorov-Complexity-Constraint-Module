@@ -1,0 +1,3072 @@
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.616719
+Penalty value: 0.002000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.379753
+Penalty value: 0.002000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.083546
+Penalty value: 0.002000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.42835101534426895, 0.0, 0.027815565178624397, 0.5438334194771067, 0.0]
+Sparsity (non-zero): 3
+Final objective value: -2.244698
+Penalty value: 0.004000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.625719
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.388753
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.092546
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.42927650254178745, 0.0, 0.025348769403923586, 0.5453747280542889, 0.0]
+Sparsity (non-zero): 3
+Final objective value: -2.238446
+Penalty value: 0.013000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.665719
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.428753
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.132546
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4335809078454038, 0.0, 0.013959538241292554, 0.5524595539133035, 0.0]
+Sparsity (non-zero): 3
+Final objective value: -2.211070
+Penalty value: 0.053000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.715719
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.478753
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.182546
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4387629777346705, 0.0, 0.0, 0.5612370222653295, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.177436
+Penalty value: 0.102000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.625719
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.388753
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.092546
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.42835099681191285, 0.0, 0.027815584304005717, 0.5438334188840814, 0.0]
+Sparsity (non-zero): 3
+Final objective value: -2.217698
+Penalty value: 0.031000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.634719
+Penalty value: 0.020000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.397753
+Penalty value: 0.020000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.101546
+Penalty value: 0.020000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.42927648652686745, 0.0, 0.02534878589731253, 0.5453747275758201, 0.0]
+Sparsity (non-zero): 3
+Final objective value: -2.211446
+Penalty value: 0.040000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.674719
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.437753
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.141546
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4335809018729789, 0.0, 0.013959544307429485, 0.5524595538195916, 0.0]
+Sparsity (non-zero): 3
+Final objective value: -2.184070
+Penalty value: 0.080000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.724719
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.487753
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.191546
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.43876850764670877, 0.0, 0.0, 0.5612314923532913, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.159434
+Penalty value: 0.120000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.665719
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.428753
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.132546
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.44280106557471466, 0.0, 0.0, 0.5571989344252853, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.177380
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.674719
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.437753
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.141546
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4424562381917517, 0.0, 0.0, 0.5575437618082483, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.168471
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.714719
+Penalty value: 0.100000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.477753
+Penalty value: 0.100000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.181546
+Penalty value: 0.100000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4408738138408191, 0.0, 0.0, 0.5591261861591809, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.128886
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.764719
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.527753
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.231546
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.43877575936605484, 0.0, 0.0, 0.5612242406339453, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.079432
+Penalty value: 0.200000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.715719
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.478753
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.182546
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.44280640781804587, 0.0, 0.0, 0.5571935921819541, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.077379
+Penalty value: 0.201000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.724719
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.487753
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.191546
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4424612267618665, 0.0, 0.0, 0.5575387732381334, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.068470
+Penalty value: 0.210000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.764719
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.527753
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.231546
+Penalty value: 0.150000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.44087772291008864, 0.0, 0.0, 0.5591222770899114, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -2.028885
+Penalty value: 0.250000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.814719
+Penalty value: 0.200000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.577753
+Penalty value: 0.200000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 1.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.281546
+Penalty value: 0.200000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 5
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.4387790123009917, 0.0, 0.0, 0.5612209876990082, 0.0]
+Sparsity (non-zero): 2
+Final objective value: -1.979431
+Penalty value: 0.300000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.08462842373214727, 0.04737529683938026, 0.07749328833882325, 0.03000964602836228, 0.08396928167011437, 0.036493732767813925, 0.0, 0.08489369318164657, 0.0, 0.029940637967552315, 0.08908313975207002, 0.08913425887663852, 0.05376875330079061, 0.05924460153583922, 0.042048767860474054, 0.02749308682787656, 0.03081743153830839, 0.06305910318095437, 0.07054685660120803]
+Sparsity (non-zero): 17
+Final objective value: 4.748268
+Penalty value: 0.018000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 4.258390
+Penalty value: 0.002000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.636862
+Penalty value: 0.002000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.08462842373214727, 0.04737529683938026, 0.07749328833882325, 0.03000964602836228, 0.08396928167011437, 0.036493732767813925, 0.0, 0.08489369318164657, 0.0, 0.029940637967552315, 0.08908313975207002, 0.08913425887663852, 0.05376875330079061, 0.05924460153583922, 0.042048767860474054, 0.02749308682787656, 0.03081743153830839, 0.06305910318095437, 0.07054685660120803]
+Sparsity (non-zero): 17
+Final objective value: 4.757268
+Penalty value: 0.027000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 4.267390
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.645862
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.08462842373214727, 0.04737529683938026, 0.07749328833882325, 0.03000964602836228, 0.08396928167011437, 0.036493732767813925, 0.0, 0.08489369318164657, 0.0, 0.029940637967552315, 0.08908313975207002, 0.08913425887663852, 0.05376875330079061, 0.05924460153583922, 0.042048767860474054, 0.02749308682787656, 0.03081743153830839, 0.06305910318095437, 0.07054685660120803]
+Sparsity (non-zero): 17
+Final objective value: 4.797268
+Penalty value: 0.067000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 4.307390
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.685862
+Penalty value: 0.051000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.08462842373214727, 0.04737529683938026, 0.07749328833882325, 0.03000964602836228, 0.08396928167011437, 0.036493732767813925, 0.0, 0.08489369318164657, 0.0, 0.029940637967552315, 0.08908313975207002, 0.08913425887663852, 0.05376875330079061, 0.05924460153583922, 0.042048767860474054, 0.02749308682787656, 0.03081743153830839, 0.06305910318095437, 0.07054685660120803]
+Sparsity (non-zero): 17
+Final objective value: 4.847268
+Penalty value: 0.117000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 4.357390
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.735862
+Penalty value: 0.101000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.645862
+Penalty value: 0.011000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.654862
+Penalty value: 0.020000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.694862
+Penalty value: 0.060000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 1
+Final objective value: 0.744862
+Penalty value: 0.110000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 20
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.03175588644707568, 0.02933861351580021, 0.022009068034572303, 0.03668813330976804, 0.007693172664195177, 0.0, 0.03277063343002827, 0.016852293449410655, 0.03250227401441114, 0.03427217237642559, 0.0, 0.03390279780185377, 0.01720416129958023, 0.019587752892053344, 0.024045372376763484, 0.03554976216252316, 0.0, 0.01829878040055876, 0.02639120689952076, 0.027733746588852366, 0.02657580469680731, 0.0, 0.011489250642011516, 0.01376564231661453, 0.030870129900898397, 0.010697358837264977, 0.008085764237717993, 0.03674189164661248, 0.0, 0.03829119182786532, 0.02597289286965299, 0.03179235700282256, 0.011305965151421437, 0.0, 0.028315607073439598, 0.03201014550262138, 0.028415635382975705, 0.0, 0.02891265795391077, 0.029507270351025336, 0.025271371176852075, 0.02939955802488204, 0.03246207967447785, 0.02354694503611613, 0.0, 0.018712627516496803, 0.0, 0.015639388864754442, 0.015622636649365158, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 11.999212
+Penalty value: 0.041000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.031291712356580036, 0.028909772574206728, 0.0216873626665099, 0.036151864831184516, 0.007580721971616335, 0.004131705207628264, 0.032291626837260015, 0.016605964379123716, 0.03202719001684039, 0.03377121786934074, 0.0, 0.033407242423131776, 0.016952688995782884, 0.019301439757678236, 0.023693902457250622, 0.035030133193997066, 0.0, 0.018031308108019718, 0.026005448042494887, 0.027328363901130148, 0.026187347583670535, 0.005083515660706753, 0.011321312881051194, 0.013564430660531432, 0.03041890286637323, 0.010540996116379563, 0.007967575055146756, 0.03620483738530004, 0.0, 0.03773149152882579, 0.025593248486385518, 0.031327649824167914, 0.011140706464655358, 0.0, 0.027901719362194297, 0.03154225492113579, 0.02800028556329013, 0.00540172554471019, 0.028490043181939765, 0.029075964161509173, 0.024901980898575864, 0.028969826260665136, 0.03198758319542002, 0.02320276060233231, 0.0, 0.0184391060428409, 0.0, 0.015410788755785554, 0.015394281406630916, 0.0]
+Sparsity (non-zero): 43
+Final objective value: 11.674549
+Penalty value: 0.044000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.03094682341310949, 0.028591136738447005, 0.021448330314701194, 0.03575340857784703, 0.007497169267253549, 0.004086166650084576, 0.03193571710193018, 0.016422937849774284, 0.031674194833918874, 0.033399000474589526, 0.002335734046561007, 0.03303903666908791, 0.016765840959788114, 0.019088704414542367, 0.02343275455674409, 0.03464404036886698, 0.0, 0.017832571818618186, 0.025718822900423738, 0.027027157931791192, 0.025898717593163516, 0.005027486501121038, 0.011196532377071387, 0.013414927108089813, 0.030083633797312184, 0.010424816056551652, 0.007879758558833667, 0.03580579728253899, 0.0, 0.03731562504952754, 0.025311166498354187, 0.03098236478747351, 0.011017916556633516, 0.0, 0.027594194021229212, 0.03119460456405517, 0.027691673851832733, 0.005342189160289822, 0.02817603349207429, 0.028755496606209612, 0.024627517878317802, 0.02865052852912169, 0.03163502454836584, 0.022947025936918396, 0.0033135610117643838, 0.018235875112900455, 0.0029038613910014168, 0.015240935134754396, 0.01522460972521829, 0.002468577981196325]
+Sparsity (non-zero): 47
+Final objective value: 8.853761
+Penalty value: 0.048000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.03175588644707568, 0.02933861351580021, 0.022009068034572303, 0.03668813330976804, 0.007693172664195177, 0.0, 0.03277063343002827, 0.016852293449410655, 0.03250227401441114, 0.03427217237642559, 0.0, 0.03390279780185377, 0.01720416129958023, 0.019587752892053344, 0.024045372376763484, 0.03554976216252316, 0.0, 0.01829878040055876, 0.02639120689952076, 0.027733746588852366, 0.02657580469680731, 0.0, 0.011489250642011516, 0.01376564231661453, 0.030870129900898397, 0.010697358837264977, 0.008085764237717993, 0.03674189164661248, 0.0, 0.03829119182786532, 0.02597289286965299, 0.03179235700282256, 0.011305965151421437, 0.0, 0.028315607073439598, 0.03201014550262138, 0.028415635382975705, 0.0, 0.02891265795391077, 0.029507270351025336, 0.025271371176852075, 0.02939955802488204, 0.03246207967447785, 0.02354694503611613, 0.0, 0.018712627516496803, 0.0, 0.015639388864754442, 0.015622636649365158, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 12.008212
+Penalty value: 0.050000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.031291712356580036, 0.028909772574206728, 0.0216873626665099, 0.036151864831184516, 0.007580721971616335, 0.004131705207628264, 0.032291626837260015, 0.016605964379123716, 0.03202719001684039, 0.03377121786934074, 0.0, 0.033407242423131776, 0.016952688995782884, 0.019301439757678236, 0.023693902457250622, 0.035030133193997066, 0.0, 0.018031308108019718, 0.026005448042494887, 0.027328363901130148, 0.026187347583670535, 0.005083515660706753, 0.011321312881051194, 0.013564430660531432, 0.03041890286637323, 0.010540996116379563, 0.007967575055146756, 0.03620483738530004, 0.0, 0.03773149152882579, 0.025593248486385518, 0.031327649824167914, 0.011140706464655358, 0.0, 0.027901719362194297, 0.03154225492113579, 0.02800028556329013, 0.00540172554471019, 0.028490043181939765, 0.029075964161509173, 0.024901980898575864, 0.028969826260665136, 0.03198758319542002, 0.02320276060233231, 0.0, 0.0184391060428409, 0.0, 0.015410788755785554, 0.015394281406630916, 0.0]
+Sparsity (non-zero): 43
+Final objective value: 11.683549
+Penalty value: 0.053000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.03094682341310949, 0.028591136738447005, 0.021448330314701194, 0.03575340857784703, 0.007497169267253549, 0.004086166650084576, 0.03193571710193018, 0.016422937849774284, 0.031674194833918874, 0.033399000474589526, 0.002335734046561007, 0.03303903666908791, 0.016765840959788114, 0.019088704414542367, 0.02343275455674409, 0.03464404036886698, 0.0, 0.017832571818618186, 0.025718822900423738, 0.027027157931791192, 0.025898717593163516, 0.005027486501121038, 0.011196532377071387, 0.013414927108089813, 0.030083633797312184, 0.010424816056551652, 0.007879758558833667, 0.03580579728253899, 0.0, 0.03731562504952754, 0.025311166498354187, 0.03098236478747351, 0.011017916556633516, 0.0, 0.027594194021229212, 0.03119460456405517, 0.027691673851832733, 0.005342189160289822, 0.02817603349207429, 0.028755496606209612, 0.024627517878317802, 0.02865052852912169, 0.03163502454836584, 0.022947025936918396, 0.0033135610117643838, 0.018235875112900455, 0.0029038613910014168, 0.015240935134754396, 0.01522460972521829, 0.002468577981196325]
+Sparsity (non-zero): 47
+Final objective value: 8.862761
+Penalty value: 0.057000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.03175588644707568, 0.02933861351580021, 0.022009068034572303, 0.03668813330976804, 0.007693172664195177, 0.0, 0.03277063343002827, 0.016852293449410655, 0.03250227401441114, 0.03427217237642559, 0.0, 0.03390279780185377, 0.01720416129958023, 0.019587752892053344, 0.024045372376763484, 0.03554976216252316, 0.0, 0.01829878040055876, 0.02639120689952076, 0.027733746588852366, 0.02657580469680731, 0.0, 0.011489250642011516, 0.01376564231661453, 0.030870129900898397, 0.010697358837264977, 0.008085764237717993, 0.03674189164661248, 0.0, 0.03829119182786532, 0.02597289286965299, 0.03179235700282256, 0.011305965151421437, 0.0, 0.028315607073439598, 0.03201014550262138, 0.028415635382975705, 0.0, 0.02891265795391077, 0.029507270351025336, 0.025271371176852075, 0.02939955802488204, 0.03246207967447785, 0.02354694503611613, 0.0, 0.018712627516496803, 0.0, 0.015639388864754442, 0.015622636649365158, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 12.048212
+Penalty value: 0.090000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.031291712356580036, 0.028909772574206728, 0.0216873626665099, 0.036151864831184516, 0.007580721971616335, 0.004131705207628264, 0.032291626837260015, 0.016605964379123716, 0.03202719001684039, 0.03377121786934074, 0.0, 0.033407242423131776, 0.016952688995782884, 0.019301439757678236, 0.023693902457250622, 0.035030133193997066, 0.0, 0.018031308108019718, 0.026005448042494887, 0.027328363901130148, 0.026187347583670535, 0.005083515660706753, 0.011321312881051194, 0.013564430660531432, 0.03041890286637323, 0.010540996116379563, 0.007967575055146756, 0.03620483738530004, 0.0, 0.03773149152882579, 0.025593248486385518, 0.031327649824167914, 0.011140706464655358, 0.0, 0.027901719362194297, 0.03154225492113579, 0.02800028556329013, 0.00540172554471019, 0.028490043181939765, 0.029075964161509173, 0.024901980898575864, 0.028969826260665136, 0.03198758319542002, 0.02320276060233231, 0.0, 0.0184391060428409, 0.0, 0.015410788755785554, 0.015394281406630916, 0.0]
+Sparsity (non-zero): 43
+Final objective value: 11.723549
+Penalty value: 0.093000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.03094682341310949, 0.028591136738447005, 0.021448330314701194, 0.03575340857784703, 0.007497169267253549, 0.004086166650084576, 0.03193571710193018, 0.016422937849774284, 0.031674194833918874, 0.033399000474589526, 0.002335734046561007, 0.03303903666908791, 0.016765840959788114, 0.019088704414542367, 0.02343275455674409, 0.03464404036886698, 0.0, 0.017832571818618186, 0.025718822900423738, 0.027027157931791192, 0.025898717593163516, 0.005027486501121038, 0.011196532377071387, 0.013414927108089813, 0.030083633797312184, 0.010424816056551652, 0.007879758558833667, 0.03580579728253899, 0.0, 0.03731562504952754, 0.025311166498354187, 0.03098236478747351, 0.011017916556633516, 0.0, 0.027594194021229212, 0.03119460456405517, 0.027691673851832733, 0.005342189160289822, 0.02817603349207429, 0.028755496606209612, 0.024627517878317802, 0.02865052852912169, 0.03163502454836584, 0.022947025936918396, 0.0033135610117643838, 0.018235875112900455, 0.0029038613910014168, 0.015240935134754396, 0.01522460972521829, 0.002468577981196325]
+Sparsity (non-zero): 47
+Final objective value: 8.902761
+Penalty value: 0.097000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.03175588644707568, 0.02933861351580021, 0.022009068034572303, 0.03668813330976804, 0.007693172664195177, 0.0, 0.03277063343002827, 0.016852293449410655, 0.03250227401441114, 0.03427217237642559, 0.0, 0.03390279780185377, 0.01720416129958023, 0.019587752892053344, 0.024045372376763484, 0.03554976216252316, 0.0, 0.01829878040055876, 0.02639120689952076, 0.027733746588852366, 0.02657580469680731, 0.0, 0.011489250642011516, 0.01376564231661453, 0.030870129900898397, 0.010697358837264977, 0.008085764237717993, 0.03674189164661248, 0.0, 0.03829119182786532, 0.02597289286965299, 0.03179235700282256, 0.011305965151421437, 0.0, 0.028315607073439598, 0.03201014550262138, 0.028415635382975705, 0.0, 0.02891265795391077, 0.029507270351025336, 0.025271371176852075, 0.02939955802488204, 0.03246207967447785, 0.02354694503611613, 0.0, 0.018712627516496803, 0.0, 0.015639388864754442, 0.015622636649365158, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 12.098212
+Penalty value: 0.140000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.031291712356580036, 0.028909772574206728, 0.0216873626665099, 0.036151864831184516, 0.007580721971616335, 0.004131705207628264, 0.032291626837260015, 0.016605964379123716, 0.03202719001684039, 0.03377121786934074, 0.0, 0.033407242423131776, 0.016952688995782884, 0.019301439757678236, 0.023693902457250622, 0.035030133193997066, 0.0, 0.018031308108019718, 0.026005448042494887, 0.027328363901130148, 0.026187347583670535, 0.005083515660706753, 0.011321312881051194, 0.013564430660531432, 0.03041890286637323, 0.010540996116379563, 0.007967575055146756, 0.03620483738530004, 0.0, 0.03773149152882579, 0.025593248486385518, 0.031327649824167914, 0.011140706464655358, 0.0, 0.027901719362194297, 0.03154225492113579, 0.02800028556329013, 0.00540172554471019, 0.028490043181939765, 0.029075964161509173, 0.024901980898575864, 0.028969826260665136, 0.03198758319542002, 0.02320276060233231, 0.0, 0.0184391060428409, 0.0, 0.015410788755785554, 0.015394281406630916, 0.0]
+Sparsity (non-zero): 43
+Final objective value: 11.773549
+Penalty value: 0.143000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.03094682341310949, 0.028591136738447005, 0.021448330314701194, 0.03575340857784703, 0.007497169267253549, 0.004086166650084576, 0.03193571710193018, 0.016422937849774284, 0.031674194833918874, 0.033399000474589526, 0.002335734046561007, 0.03303903666908791, 0.016765840959788114, 0.019088704414542367, 0.02343275455674409, 0.03464404036886698, 0.0, 0.017832571818618186, 0.025718822900423738, 0.027027157931791192, 0.025898717593163516, 0.005027486501121038, 0.011196532377071387, 0.013414927108089813, 0.030083633797312184, 0.010424816056551652, 0.007879758558833667, 0.03580579728253899, 0.0, 0.03731562504952754, 0.025311166498354187, 0.03098236478747351, 0.011017916556633516, 0.0, 0.027594194021229212, 0.03119460456405517, 0.027691673851832733, 0.005342189160289822, 0.02817603349207429, 0.028755496606209612, 0.024627517878317802, 0.02865052852912169, 0.03163502454836584, 0.022947025936918396, 0.0033135610117643838, 0.018235875112900455, 0.0029038613910014168, 0.015240935134754396, 0.01522460972521829, 0.002468577981196325]
+Sparsity (non-zero): 47
+Final objective value: 8.952761
+Penalty value: 0.147000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.031755886447075686, 0.02933861351580022, 0.022009068034572313, 0.03668813330976805, 0.0076931726641951805, 0.0, 0.032770633430028284, 0.01685229344941066, 0.03250227401441115, 0.034272172376425596, 0.0, 0.033902797801853776, 0.017204161299580235, 0.01958775289205335, 0.02404537237676349, 0.03554976216252317, 0.0, 0.018298780400558764, 0.026391206899520764, 0.02773374658885237, 0.026575804696807318, 0.0, 0.01148925064201152, 0.013765642316614536, 0.0308701299008984, 0.01069735883726498, 0.008085764237717997, 0.03674189164661249, 0.0, 0.03829119182786533, 0.025972892869652996, 0.03179235700282257, 0.01130596515142144, 0.0, 0.02831560707343961, 0.032010145502621386, 0.028415635382975712, 0.0, 0.02891265795391078, 0.029507270351025343, 0.025271371176852086, 0.029399558024882047, 0.03246207967447786, 0.023546945036116134, 0.0, 0.01871262751649681, 0.0, 0.015639388864754446, 0.015622636649365161, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 9.087577
+Penalty value: 0.401000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.031755886447075686, 0.02933861351580022, 0.022009068034572313, 0.03668813330976805, 0.0076931726641951805, 0.0, 0.032770633430028284, 0.01685229344941066, 0.03250227401441115, 0.034272172376425596, 0.0, 0.033902797801853776, 0.017204161299580235, 0.01958775289205335, 0.02404537237676349, 0.03554976216252317, 0.0, 0.018298780400558764, 0.026391206899520764, 0.02773374658885237, 0.026575804696807318, 0.0, 0.01148925064201152, 0.013765642316614536, 0.0308701299008984, 0.01069735883726498, 0.008085764237717997, 0.03674189164661249, 0.0, 0.03829119182786533, 0.025972892869652996, 0.03179235700282257, 0.01130596515142144, 0.0, 0.02831560707343961, 0.032010145502621386, 0.028415635382975712, 0.0, 0.02891265795391078, 0.029507270351025343, 0.025271371176852086, 0.029399558024882047, 0.03246207967447786, 0.023546945036116134, 0.0, 0.01871262751649681, 0.0, 0.015639388864754446, 0.015622636649365161, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 9.096577
+Penalty value: 0.410000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.031755886447075686, 0.02933861351580022, 0.022009068034572313, 0.03668813330976805, 0.0076931726641951805, 0.0, 0.032770633430028284, 0.01685229344941066, 0.03250227401441115, 0.034272172376425596, 0.0, 0.033902797801853776, 0.017204161299580235, 0.01958775289205335, 0.02404537237676349, 0.03554976216252317, 0.0, 0.018298780400558764, 0.026391206899520764, 0.02773374658885237, 0.026575804696807318, 0.0, 0.01148925064201152, 0.013765642316614536, 0.0308701299008984, 0.01069735883726498, 0.008085764237717997, 0.03674189164661249, 0.0, 0.03829119182786533, 0.025972892869652996, 0.03179235700282257, 0.01130596515142144, 0.0, 0.02831560707343961, 0.032010145502621386, 0.028415635382975712, 0.0, 0.02891265795391078, 0.029507270351025343, 0.025271371176852086, 0.029399558024882047, 0.03246207967447786, 0.023546945036116134, 0.0, 0.01871262751649681, 0.0, 0.015639388864754446, 0.015622636649365161, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 9.136577
+Penalty value: 0.450000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.031755886447075686, 0.02933861351580022, 0.022009068034572313, 0.03668813330976805, 0.0076931726641951805, 0.0, 0.032770633430028284, 0.01685229344941066, 0.03250227401441115, 0.034272172376425596, 0.0, 0.033902797801853776, 0.017204161299580235, 0.01958775289205335, 0.02404537237676349, 0.03554976216252317, 0.0, 0.018298780400558764, 0.026391206899520764, 0.02773374658885237, 0.026575804696807318, 0.0, 0.01148925064201152, 0.013765642316614536, 0.0308701299008984, 0.01069735883726498, 0.008085764237717997, 0.03674189164661249, 0.0, 0.03829119182786533, 0.025972892869652996, 0.03179235700282257, 0.01130596515142144, 0.0, 0.02831560707343961, 0.032010145502621386, 0.028415635382975712, 0.0, 0.02891265795391078, 0.029507270351025343, 0.025271371176852086, 0.029399558024882047, 0.03246207967447786, 0.023546945036116134, 0.0, 0.01871262751649681, 0.0, 0.015639388864754446, 0.015622636649365161, 0.0]
+Sparsity (non-zero): 40
+Final objective value: 9.186577
+Penalty value: 0.500000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 50
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.007617190904027917, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729663, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126405, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793196, 0.0, 0.005304772837985689, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510005, 0.0, 0.01859707728827676, 0.018200894479635802, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799894, 0.01789584593743415, 0.018247992895288292, 0.013439622340409676, 0.007028963986195564, 0.018218278155965294, 0.005942980487506164, 0.011471662189177445, 0.0, 0.018795355573257382, 0.0, 0.004584836073276276, 0.011378345786651345, 0.015577104971930322, 0.012626343003250499, 0.004732374627466871, 0.0, 0.015435574027925197, 0.020084829897086057, 0.016511212234158693, 0.009381955858520453, 0.018424560226417183, 0.008355318298801841, 0.010701515825070226, 0.009726957935596314, 0.009125438985188064, 0.015803348523277624, 0.01073892125984496, 0.006456721701179428, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103265, 0.0, 0.0133292386888746, 0.013887403907612362, 0.01533372993677838, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.01295746248945683, 0.006191776622670264, 0.020038707619931255, 0.005588649355197843, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.01336932479338499, 0.0101325225238279, 0.0, 0.01248282240395632, 0.014600206593170014, 0.008496012739921366, 0.015438529887910078, 0.004627739120203342, 0.004511032931734856, 0.0, 0.00758363369462697, 0.01726752552904745, 0.01687814584877566, 0.007804407148843646, 0.012010009761556695, 0.01469484921872099, 0.004917337611094659, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 24.289697
+Penalty value: 0.082000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.007431656006602343, 0.006621568247766788, 0.003503673092545324, 0.012078436759101994, 0.00947997817762903, 0.017218654016249293, 0.0, 0.012806429904820825, 0.015174930937654802, 0.015106066160020316, 0.017623869219862358, 0.01450036432354481, 0.018453993452657896, 0.006616486465102793, 0.010008754664243873, 0.0, 0.0, 0.004776080002572603, 0.0020050389976174416, 0.005175562411627438, 0.0035213627585175067, 0.0, 0.018085913763913945, 0.0, 0.014640555900085596, 0.003026197090449998, 0.018144101004687576, 0.017757568175637402, 0.013005989019297602, 0.013370629519842327, 0.0, 0.01958893763287361, 0.017459949820062333, 0.017803519396762793, 0.013112268203722908, 0.006857756761824012, 0.01777452843096494, 0.005798224987868026, 0.011192242427432417, 0.0, 0.01833754974794749, 0.002799901847824584, 0.004473161428215382, 0.011101198969012476, 0.015197687334960474, 0.012318798229398312, 0.004617106328149052, 0.0, 0.01505960371550181, 0.019595615841443124, 0.016109042181335596, 0.00915343589101624, 0.017975786008363647, 0.008151804543789283, 0.01044085481946872, 0.009490034617593422, 0.008903167099474276, 0.015418420183658821, 0.010477349155441872, 0.00629945280590987, 0.0051347245871199675, 0.0, 0.011599658317887587, 0.004573895703004381, 0.002946359971729734, 0.013004573209951967, 0.013549142980195683, 0.014960240280707499, 0.010016063774344849, 0.01778260283300963, 0.01862370732428613, 0.01605847861828245, 0.012641852508800334, 0.006040961098280331, 0.019550616982628333, 0.005452524437504651, 0.004030813704375721, 0.008794374471853533, 0.0, 0.01946209810707118, 0.011703849145749203, 0.011077687856458624, 0.013043682921539792, 0.009885720710560146, 0.0, 0.012178773417462494, 0.01424458365201154, 0.008289072035390232, 0.015062487578449201, 0.004515019468851921, 0.004401155938651981, 0.0032105580194336605, 0.007398916163272764, 0.01684693365755698, 0.016467038250418037, 0.0076143121521352886, 0.011717477257479337, 0.014336921030123542, 0.0047975640960579114, 0.0033442992552959196]
+Sparsity (non-zero): 89
+Final objective value: 23.989444
+Penalty value: 0.090000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007389472299953491, 0.00658398277660518, 0.003483785476945503, 0.012009876907492877, 0.009426167745858863, 0.017120917166041985, 0.0006350292682394501, 0.012733737804723068, 0.015088794707113195, 0.015020320821034454, 0.017523832279437785, 0.014418057080800734, 0.018349244545332915, 0.006578929839252238, 0.009951942781360476, 0.0, 0.0, 0.004748969926758952, 0.0019936579572652157, 0.005146184786193624, 0.003501374732500489, 0.0005640388392360832, 0.017983254157493037, 0.0, 0.014557452899258238, 0.0030090197331810752, 0.018041111114747987, 0.017656772330666568, 0.01293216417797276, 0.013294734899198633, 0.0, 0.019477746533886568, 0.017360843322041054, 0.017702462722599864, 0.01303784009847752, 0.006818830632943322, 0.01767363631587143, 0.005765312993319978, 0.011128712808881424, 0.0019723735233393128, 0.018233461800585705, 0.002784008991899972, 0.004447770784553572, 0.01103818613306537, 0.015111421934125267, 0.012248874033456833, 0.004590898621718593, 0.0, 0.014974122107523953, 0.019484386835482054, 0.016017603730851922, 0.009101478984761071, 0.017873751511195635, 0.00810553311636739, 0.010381590241496269, 0.009436167103268167, 0.008852630773676061, 0.015330901854845112, 0.01041787742762803, 0.006263695732523171, 0.005105578766119469, 0.0007465264482426293, 0.011533816117538974, 0.004547933269543177, 0.002929635787426943, 0.01293075640507096, 0.01347223507806564, 0.01487532268134108, 0.009959210403352195, 0.017681664885842233, 0.01851799508386706, 0.015967327177653517, 0.012570094586036485, 0.006006671280422698, 0.01943964340004236, 0.005421574714971337, 0.004007933923246119, 0.008744455676829755, 0.0011241325948176018, 0.019351626977004006, 0.011637415535449147, 0.011014808474734114, 0.012969644121372772, 0.009829607195336047, 0.0006341182753573199, 0.01210964403301189, 0.014163728276362069, 0.0082420214476314, 0.014976989601033833, 0.004489391229786672, 0.004376174013914479, 0.0031923341891661417, 0.007356918295143016, 0.016751306773493492, 0.016373567735863282, 0.007571091649211969, 0.011650966291033236, 0.01425554152729871, 0.0047703320718257124, 0.003325316280491106]
+Sparsity (non-zero): 95
+Final objective value: 21.253387
+Penalty value: 0.096000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.007617190904027917, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729663, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126405, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793196, 0.0, 0.005304772837985689, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510005, 0.0, 0.01859707728827676, 0.018200894479635802, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799894, 0.01789584593743415, 0.018247992895288292, 0.013439622340409676, 0.007028963986195564, 0.018218278155965294, 0.005942980487506164, 0.011471662189177445, 0.0, 0.018795355573257382, 0.0, 0.004584836073276276, 0.011378345786651345, 0.015577104971930322, 0.012626343003250499, 0.004732374627466871, 0.0, 0.015435574027925197, 0.020084829897086057, 0.016511212234158693, 0.009381955858520453, 0.018424560226417183, 0.008355318298801841, 0.010701515825070226, 0.009726957935596314, 0.009125438985188064, 0.015803348523277624, 0.01073892125984496, 0.006456721701179428, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103265, 0.0, 0.0133292386888746, 0.013887403907612362, 0.01533372993677838, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.01295746248945683, 0.006191776622670264, 0.020038707619931255, 0.005588649355197843, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.01336932479338499, 0.0101325225238279, 0.0, 0.01248282240395632, 0.014600206593170014, 0.008496012739921366, 0.015438529887910078, 0.004627739120203342, 0.004511032931734856, 0.0, 0.00758363369462697, 0.01726752552904745, 0.01687814584877566, 0.007804407148843646, 0.012010009761556695, 0.01469484921872099, 0.004917337611094659, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 24.298697
+Penalty value: 0.091000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.007431656006602343, 0.006621568247766788, 0.003503673092545324, 0.012078436759101994, 0.00947997817762903, 0.017218654016249293, 0.0, 0.012806429904820825, 0.015174930937654802, 0.015106066160020316, 0.017623869219862358, 0.01450036432354481, 0.018453993452657896, 0.006616486465102793, 0.010008754664243873, 0.0, 0.0, 0.004776080002572603, 0.0020050389976174416, 0.005175562411627438, 0.0035213627585175067, 0.0, 0.018085913763913945, 0.0, 0.014640555900085596, 0.003026197090449998, 0.018144101004687576, 0.017757568175637402, 0.013005989019297602, 0.013370629519842327, 0.0, 0.01958893763287361, 0.017459949820062333, 0.017803519396762793, 0.013112268203722908, 0.006857756761824012, 0.01777452843096494, 0.005798224987868026, 0.011192242427432417, 0.0, 0.01833754974794749, 0.002799901847824584, 0.004473161428215382, 0.011101198969012476, 0.015197687334960474, 0.012318798229398312, 0.004617106328149052, 0.0, 0.01505960371550181, 0.019595615841443124, 0.016109042181335596, 0.00915343589101624, 0.017975786008363647, 0.008151804543789283, 0.01044085481946872, 0.009490034617593422, 0.008903167099474276, 0.015418420183658821, 0.010477349155441872, 0.00629945280590987, 0.0051347245871199675, 0.0, 0.011599658317887587, 0.004573895703004381, 0.002946359971729734, 0.013004573209951967, 0.013549142980195683, 0.014960240280707499, 0.010016063774344849, 0.01778260283300963, 0.01862370732428613, 0.01605847861828245, 0.012641852508800334, 0.006040961098280331, 0.019550616982628333, 0.005452524437504651, 0.004030813704375721, 0.008794374471853533, 0.0, 0.01946209810707118, 0.011703849145749203, 0.011077687856458624, 0.013043682921539792, 0.009885720710560146, 0.0, 0.012178773417462494, 0.01424458365201154, 0.008289072035390232, 0.015062487578449201, 0.004515019468851921, 0.004401155938651981, 0.0032105580194336605, 0.007398916163272764, 0.01684693365755698, 0.016467038250418037, 0.0076143121521352886, 0.011717477257479337, 0.014336921030123542, 0.0047975640960579114, 0.0033442992552959196]
+Sparsity (non-zero): 89
+Final objective value: 23.998444
+Penalty value: 0.099000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007389472299953491, 0.00658398277660518, 0.003483785476945503, 0.012009876907492877, 0.009426167745858863, 0.017120917166041985, 0.0006350292682394501, 0.012733737804723068, 0.015088794707113195, 0.015020320821034454, 0.017523832279437785, 0.014418057080800734, 0.018349244545332915, 0.006578929839252238, 0.009951942781360476, 0.0, 0.0, 0.004748969926758952, 0.0019936579572652157, 0.005146184786193624, 0.003501374732500489, 0.0005640388392360832, 0.017983254157493037, 0.0, 0.014557452899258238, 0.0030090197331810752, 0.018041111114747987, 0.017656772330666568, 0.01293216417797276, 0.013294734899198633, 0.0, 0.019477746533886568, 0.017360843322041054, 0.017702462722599864, 0.01303784009847752, 0.006818830632943322, 0.01767363631587143, 0.005765312993319978, 0.011128712808881424, 0.0019723735233393128, 0.018233461800585705, 0.002784008991899972, 0.004447770784553572, 0.01103818613306537, 0.015111421934125267, 0.012248874033456833, 0.004590898621718593, 0.0, 0.014974122107523953, 0.019484386835482054, 0.016017603730851922, 0.009101478984761071, 0.017873751511195635, 0.00810553311636739, 0.010381590241496269, 0.009436167103268167, 0.008852630773676061, 0.015330901854845112, 0.01041787742762803, 0.006263695732523171, 0.005105578766119469, 0.0007465264482426293, 0.011533816117538974, 0.004547933269543177, 0.002929635787426943, 0.01293075640507096, 0.01347223507806564, 0.01487532268134108, 0.009959210403352195, 0.017681664885842233, 0.01851799508386706, 0.015967327177653517, 0.012570094586036485, 0.006006671280422698, 0.01943964340004236, 0.005421574714971337, 0.004007933923246119, 0.008744455676829755, 0.0011241325948176018, 0.019351626977004006, 0.011637415535449147, 0.011014808474734114, 0.012969644121372772, 0.009829607195336047, 0.0006341182753573199, 0.01210964403301189, 0.014163728276362069, 0.0082420214476314, 0.014976989601033833, 0.004489391229786672, 0.004376174013914479, 0.0031923341891661417, 0.007356918295143016, 0.016751306773493492, 0.016373567735863282, 0.007571091649211969, 0.011650966291033236, 0.01425554152729871, 0.0047703320718257124, 0.003325316280491106]
+Sparsity (non-zero): 95
+Final objective value: 21.262387
+Penalty value: 0.105000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.007617190904027917, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729663, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126405, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793196, 0.0, 0.005304772837985689, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510005, 0.0, 0.01859707728827676, 0.018200894479635802, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799894, 0.01789584593743415, 0.018247992895288292, 0.013439622340409676, 0.007028963986195564, 0.018218278155965294, 0.005942980487506164, 0.011471662189177445, 0.0, 0.018795355573257382, 0.0, 0.004584836073276276, 0.011378345786651345, 0.015577104971930322, 0.012626343003250499, 0.004732374627466871, 0.0, 0.015435574027925197, 0.020084829897086057, 0.016511212234158693, 0.009381955858520453, 0.018424560226417183, 0.008355318298801841, 0.010701515825070226, 0.009726957935596314, 0.009125438985188064, 0.015803348523277624, 0.01073892125984496, 0.006456721701179428, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103265, 0.0, 0.0133292386888746, 0.013887403907612362, 0.01533372993677838, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.01295746248945683, 0.006191776622670264, 0.020038707619931255, 0.005588649355197843, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.01336932479338499, 0.0101325225238279, 0.0, 0.01248282240395632, 0.014600206593170014, 0.008496012739921366, 0.015438529887910078, 0.004627739120203342, 0.004511032931734856, 0.0, 0.00758363369462697, 0.01726752552904745, 0.01687814584877566, 0.007804407148843646, 0.012010009761556695, 0.01469484921872099, 0.004917337611094659, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 24.338697
+Penalty value: 0.131000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.007431656006602343, 0.006621568247766788, 0.003503673092545324, 0.012078436759101994, 0.00947997817762903, 0.017218654016249293, 0.0, 0.012806429904820825, 0.015174930937654802, 0.015106066160020316, 0.017623869219862358, 0.01450036432354481, 0.018453993452657896, 0.006616486465102793, 0.010008754664243873, 0.0, 0.0, 0.004776080002572603, 0.0020050389976174416, 0.005175562411627438, 0.0035213627585175067, 0.0, 0.018085913763913945, 0.0, 0.014640555900085596, 0.003026197090449998, 0.018144101004687576, 0.017757568175637402, 0.013005989019297602, 0.013370629519842327, 0.0, 0.01958893763287361, 0.017459949820062333, 0.017803519396762793, 0.013112268203722908, 0.006857756761824012, 0.01777452843096494, 0.005798224987868026, 0.011192242427432417, 0.0, 0.01833754974794749, 0.002799901847824584, 0.004473161428215382, 0.011101198969012476, 0.015197687334960474, 0.012318798229398312, 0.004617106328149052, 0.0, 0.01505960371550181, 0.019595615841443124, 0.016109042181335596, 0.00915343589101624, 0.017975786008363647, 0.008151804543789283, 0.01044085481946872, 0.009490034617593422, 0.008903167099474276, 0.015418420183658821, 0.010477349155441872, 0.00629945280590987, 0.0051347245871199675, 0.0, 0.011599658317887587, 0.004573895703004381, 0.002946359971729734, 0.013004573209951967, 0.013549142980195683, 0.014960240280707499, 0.010016063774344849, 0.01778260283300963, 0.01862370732428613, 0.01605847861828245, 0.012641852508800334, 0.006040961098280331, 0.019550616982628333, 0.005452524437504651, 0.004030813704375721, 0.008794374471853533, 0.0, 0.01946209810707118, 0.011703849145749203, 0.011077687856458624, 0.013043682921539792, 0.009885720710560146, 0.0, 0.012178773417462494, 0.01424458365201154, 0.008289072035390232, 0.015062487578449201, 0.004515019468851921, 0.004401155938651981, 0.0032105580194336605, 0.007398916163272764, 0.01684693365755698, 0.016467038250418037, 0.0076143121521352886, 0.011717477257479337, 0.014336921030123542, 0.0047975640960579114, 0.0033442992552959196]
+Sparsity (non-zero): 89
+Final objective value: 24.038444
+Penalty value: 0.139000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007389472299953491, 0.00658398277660518, 0.003483785476945503, 0.012009876907492877, 0.009426167745858863, 0.017120917166041985, 0.0006350292682394501, 0.012733737804723068, 0.015088794707113195, 0.015020320821034454, 0.017523832279437785, 0.014418057080800734, 0.018349244545332915, 0.006578929839252238, 0.009951942781360476, 0.0, 0.0, 0.004748969926758952, 0.0019936579572652157, 0.005146184786193624, 0.003501374732500489, 0.0005640388392360832, 0.017983254157493037, 0.0, 0.014557452899258238, 0.0030090197331810752, 0.018041111114747987, 0.017656772330666568, 0.01293216417797276, 0.013294734899198633, 0.0, 0.019477746533886568, 0.017360843322041054, 0.017702462722599864, 0.01303784009847752, 0.006818830632943322, 0.01767363631587143, 0.005765312993319978, 0.011128712808881424, 0.0019723735233393128, 0.018233461800585705, 0.002784008991899972, 0.004447770784553572, 0.01103818613306537, 0.015111421934125267, 0.012248874033456833, 0.004590898621718593, 0.0, 0.014974122107523953, 0.019484386835482054, 0.016017603730851922, 0.009101478984761071, 0.017873751511195635, 0.00810553311636739, 0.010381590241496269, 0.009436167103268167, 0.008852630773676061, 0.015330901854845112, 0.01041787742762803, 0.006263695732523171, 0.005105578766119469, 0.0007465264482426293, 0.011533816117538974, 0.004547933269543177, 0.002929635787426943, 0.01293075640507096, 0.01347223507806564, 0.01487532268134108, 0.009959210403352195, 0.017681664885842233, 0.01851799508386706, 0.015967327177653517, 0.012570094586036485, 0.006006671280422698, 0.01943964340004236, 0.005421574714971337, 0.004007933923246119, 0.008744455676829755, 0.0011241325948176018, 0.019351626977004006, 0.011637415535449147, 0.011014808474734114, 0.012969644121372772, 0.009829607195336047, 0.0006341182753573199, 0.01210964403301189, 0.014163728276362069, 0.0082420214476314, 0.014976989601033833, 0.004489391229786672, 0.004376174013914479, 0.0031923341891661417, 0.007356918295143016, 0.016751306773493492, 0.016373567735863282, 0.007571091649211969, 0.011650966291033236, 0.01425554152729871, 0.0047703320718257124, 0.003325316280491106]
+Sparsity (non-zero): 95
+Final objective value: 21.302387
+Penalty value: 0.145000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.007617190904027917, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729663, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126405, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793196, 0.0, 0.005304772837985689, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510005, 0.0, 0.01859707728827676, 0.018200894479635802, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799894, 0.01789584593743415, 0.018247992895288292, 0.013439622340409676, 0.007028963986195564, 0.018218278155965294, 0.005942980487506164, 0.011471662189177445, 0.0, 0.018795355573257382, 0.0, 0.004584836073276276, 0.011378345786651345, 0.015577104971930322, 0.012626343003250499, 0.004732374627466871, 0.0, 0.015435574027925197, 0.020084829897086057, 0.016511212234158693, 0.009381955858520453, 0.018424560226417183, 0.008355318298801841, 0.010701515825070226, 0.009726957935596314, 0.009125438985188064, 0.015803348523277624, 0.01073892125984496, 0.006456721701179428, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103265, 0.0, 0.0133292386888746, 0.013887403907612362, 0.01533372993677838, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.01295746248945683, 0.006191776622670264, 0.020038707619931255, 0.005588649355197843, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.01336932479338499, 0.0101325225238279, 0.0, 0.01248282240395632, 0.014600206593170014, 0.008496012739921366, 0.015438529887910078, 0.004627739120203342, 0.004511032931734856, 0.0, 0.00758363369462697, 0.01726752552904745, 0.01687814584877566, 0.007804407148843646, 0.012010009761556695, 0.01469484921872099, 0.004917337611094659, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 24.388697
+Penalty value: 0.181000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.007431656006602343, 0.006621568247766788, 0.003503673092545324, 0.012078436759101994, 0.00947997817762903, 0.017218654016249293, 0.0, 0.012806429904820825, 0.015174930937654802, 0.015106066160020316, 0.017623869219862358, 0.01450036432354481, 0.018453993452657896, 0.006616486465102793, 0.010008754664243873, 0.0, 0.0, 0.004776080002572603, 0.0020050389976174416, 0.005175562411627438, 0.0035213627585175067, 0.0, 0.018085913763913945, 0.0, 0.014640555900085596, 0.003026197090449998, 0.018144101004687576, 0.017757568175637402, 0.013005989019297602, 0.013370629519842327, 0.0, 0.01958893763287361, 0.017459949820062333, 0.017803519396762793, 0.013112268203722908, 0.006857756761824012, 0.01777452843096494, 0.005798224987868026, 0.011192242427432417, 0.0, 0.01833754974794749, 0.002799901847824584, 0.004473161428215382, 0.011101198969012476, 0.015197687334960474, 0.012318798229398312, 0.004617106328149052, 0.0, 0.01505960371550181, 0.019595615841443124, 0.016109042181335596, 0.00915343589101624, 0.017975786008363647, 0.008151804543789283, 0.01044085481946872, 0.009490034617593422, 0.008903167099474276, 0.015418420183658821, 0.010477349155441872, 0.00629945280590987, 0.0051347245871199675, 0.0, 0.011599658317887587, 0.004573895703004381, 0.002946359971729734, 0.013004573209951967, 0.013549142980195683, 0.014960240280707499, 0.010016063774344849, 0.01778260283300963, 0.01862370732428613, 0.01605847861828245, 0.012641852508800334, 0.006040961098280331, 0.019550616982628333, 0.005452524437504651, 0.004030813704375721, 0.008794374471853533, 0.0, 0.01946209810707118, 0.011703849145749203, 0.011077687856458624, 0.013043682921539792, 0.009885720710560146, 0.0, 0.012178773417462494, 0.01424458365201154, 0.008289072035390232, 0.015062487578449201, 0.004515019468851921, 0.004401155938651981, 0.0032105580194336605, 0.007398916163272764, 0.01684693365755698, 0.016467038250418037, 0.0076143121521352886, 0.011717477257479337, 0.014336921030123542, 0.0047975640960579114, 0.0033442992552959196]
+Sparsity (non-zero): 89
+Final objective value: 24.088444
+Penalty value: 0.189000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.001
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007389472299953491, 0.00658398277660518, 0.003483785476945503, 0.012009876907492877, 0.009426167745858863, 0.017120917166041985, 0.0006350292682394501, 0.012733737804723068, 0.015088794707113195, 0.015020320821034454, 0.017523832279437785, 0.014418057080800734, 0.018349244545332915, 0.006578929839252238, 0.009951942781360476, 0.0, 0.0, 0.004748969926758952, 0.0019936579572652157, 0.005146184786193624, 0.003501374732500489, 0.0005640388392360832, 0.017983254157493037, 0.0, 0.014557452899258238, 0.0030090197331810752, 0.018041111114747987, 0.017656772330666568, 0.01293216417797276, 0.013294734899198633, 0.0, 0.019477746533886568, 0.017360843322041054, 0.017702462722599864, 0.01303784009847752, 0.006818830632943322, 0.01767363631587143, 0.005765312993319978, 0.011128712808881424, 0.0019723735233393128, 0.018233461800585705, 0.002784008991899972, 0.004447770784553572, 0.01103818613306537, 0.015111421934125267, 0.012248874033456833, 0.004590898621718593, 0.0, 0.014974122107523953, 0.019484386835482054, 0.016017603730851922, 0.009101478984761071, 0.017873751511195635, 0.00810553311636739, 0.010381590241496269, 0.009436167103268167, 0.008852630773676061, 0.015330901854845112, 0.01041787742762803, 0.006263695732523171, 0.005105578766119469, 0.0007465264482426293, 0.011533816117538974, 0.004547933269543177, 0.002929635787426943, 0.01293075640507096, 0.01347223507806564, 0.01487532268134108, 0.009959210403352195, 0.017681664885842233, 0.01851799508386706, 0.015967327177653517, 0.012570094586036485, 0.006006671280422698, 0.01943964340004236, 0.005421574714971337, 0.004007933923246119, 0.008744455676829755, 0.0011241325948176018, 0.019351626977004006, 0.011637415535449147, 0.011014808474734114, 0.012969644121372772, 0.009829607195336047, 0.0006341182753573199, 0.01210964403301189, 0.014163728276362069, 0.0082420214476314, 0.014976989601033833, 0.004489391229786672, 0.004376174013914479, 0.0031923341891661417, 0.007356918295143016, 0.016751306773493492, 0.016373567735863282, 0.007571091649211969, 0.011650966291033236, 0.01425554152729871, 0.0047703320718257124, 0.003325316280491106]
+Sparsity (non-zero): 95
+Final objective value: 21.352387
+Penalty value: 0.195000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007617190904027916, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729661, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126403, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793197, 0.0, 0.00530477283798569, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510006, 0.0, 0.01859707728827676, 0.018200894479635805, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799898, 0.017895845937434155, 0.018247992895288292, 0.013439622340409674, 0.007028963986195564, 0.018218278155965294, 0.005942980487506165, 0.011471662189177445, 0.0, 0.018795355573257386, 0.0, 0.004584836073276276, 0.011378345786651343, 0.015577104971930324, 0.012626343003250497, 0.004732374627466871, 0.0, 0.015435574027925197, 0.02008482989708606, 0.016511212234158697, 0.009381955858520452, 0.018424560226417183, 0.008355318298801841, 0.010701515825070224, 0.009726957935596312, 0.009125438985188066, 0.015803348523277624, 0.01073892125984496, 0.006456721701179429, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103267, 0.0, 0.013329238688874598, 0.013887403907612362, 0.015333729936778381, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.012957462489456832, 0.006191776622670264, 0.02003870761993126, 0.0055886493551978444, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.013369324793384992, 0.0101325225238279, 0.0, 0.012482822403956323, 0.014600206593170014, 0.008496012739921366, 0.01543852988791008, 0.004627739120203343, 0.004511032931734856, 0.0, 0.00758363369462697, 0.017267525529047447, 0.01687814584877566, 0.007804407148843646, 0.012010009761556696, 0.01469484921872099, 0.00491733761109466, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 21.878231
+Penalty value: 0.811000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007617190904027916, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729661, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126403, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793197, 0.0, 0.00530477283798569, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510006, 0.0, 0.01859707728827676, 0.018200894479635805, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799898, 0.017895845937434155, 0.018247992895288292, 0.013439622340409674, 0.007028963986195564, 0.018218278155965294, 0.005942980487506165, 0.011471662189177445, 0.0, 0.018795355573257386, 0.0, 0.004584836073276276, 0.011378345786651343, 0.015577104971930324, 0.012626343003250497, 0.004732374627466871, 0.0, 0.015435574027925197, 0.02008482989708606, 0.016511212234158697, 0.009381955858520452, 0.018424560226417183, 0.008355318298801841, 0.010701515825070224, 0.009726957935596312, 0.009125438985188066, 0.015803348523277624, 0.01073892125984496, 0.006456721701179429, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103267, 0.0, 0.013329238688874598, 0.013887403907612362, 0.015333729936778381, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.012957462489456832, 0.006191776622670264, 0.02003870761993126, 0.0055886493551978444, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.013369324793384992, 0.0101325225238279, 0.0, 0.012482822403956323, 0.014600206593170014, 0.008496012739921366, 0.01543852988791008, 0.004627739120203343, 0.004511032931734856, 0.0, 0.00758363369462697, 0.017267525529047447, 0.01687814584877566, 0.007804407148843646, 0.012010009761556696, 0.01469484921872099, 0.00491733761109466, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 21.887231
+Penalty value: 0.820000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007617190904027916, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729661, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126403, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793197, 0.0, 0.00530477283798569, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510006, 0.0, 0.01859707728827676, 0.018200894479635805, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799898, 0.017895845937434155, 0.018247992895288292, 0.013439622340409674, 0.007028963986195564, 0.018218278155965294, 0.005942980487506165, 0.011471662189177445, 0.0, 0.018795355573257386, 0.0, 0.004584836073276276, 0.011378345786651343, 0.015577104971930324, 0.012626343003250497, 0.004732374627466871, 0.0, 0.015435574027925197, 0.02008482989708606, 0.016511212234158697, 0.009381955858520452, 0.018424560226417183, 0.008355318298801841, 0.010701515825070224, 0.009726957935596312, 0.009125438985188066, 0.015803348523277624, 0.01073892125984496, 0.006456721701179429, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103267, 0.0, 0.013329238688874598, 0.013887403907612362, 0.015333729936778381, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.012957462489456832, 0.006191776622670264, 0.02003870761993126, 0.0055886493551978444, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.013369324793384992, 0.0101325225238279, 0.0, 0.012482822403956323, 0.014600206593170014, 0.008496012739921366, 0.01543852988791008, 0.004627739120203343, 0.004511032931734856, 0.0, 0.00758363369462697, 0.017267525529047447, 0.01687814584877566, 0.007804407148843646, 0.012010009761556696, 0.01469484921872099, 0.00491733761109466, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 21.927231
+Penalty value: 0.860000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.01
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.007617190904027916, 0.0067868789113058985, 0.0, 0.01237998079224486, 0.009716650431729661, 0.017648526066822285, 0.0, 0.013126148640008224, 0.015553780450126403, 0.015483196429910818, 0.01806385766457023, 0.014862372953251598, 0.018914706351544675, 0.006781670259472438, 0.010258628079851171, 0.0, 0.0, 0.004895317156793197, 0.0, 0.00530477283798569, 0.0, 0.0, 0.01853743737480961, 0.0, 0.015006064480510006, 0.0, 0.01859707728827676, 0.018200894479635805, 0.01333068984458738, 0.013704433772121416, 0.0, 0.020077984963799898, 0.017895845937434155, 0.018247992895288292, 0.013439622340409674, 0.007028963986195564, 0.018218278155965294, 0.005942980487506165, 0.011471662189177445, 0.0, 0.018795355573257386, 0.0, 0.004584836073276276, 0.011378345786651343, 0.015577104971930324, 0.012626343003250497, 0.004732374627466871, 0.0, 0.015435574027925197, 0.02008482989708606, 0.016511212234158697, 0.009381955858520452, 0.018424560226417183, 0.008355318298801841, 0.010701515825070224, 0.009726957935596312, 0.009125438985188066, 0.015803348523277624, 0.01073892125984496, 0.006456721701179429, 0.005262915477378278, 0.0, 0.011889249414982097, 0.004688085228103267, 0.0, 0.013329238688874598, 0.013887403907612362, 0.015333729936778381, 0.01026611966543159, 0.01822655413937406, 0.019088657212309144, 0.016459386327224695, 0.012957462489456832, 0.006191776622670264, 0.02003870761993126, 0.0055886493551978444, 0.0041314449239206715, 0.009013930296841645, 0.0, 0.019947978827703827, 0.011996041417405994, 0.01135424770776695, 0.013369324793384992, 0.0101325225238279, 0.0, 0.012482822403956323, 0.014600206593170014, 0.008496012739921366, 0.01543852988791008, 0.004627739120203343, 0.004511032931734856, 0.0, 0.00758363369462697, 0.017267525529047447, 0.01687814584877566, 0.007804407148843646, 0.012010009761556696, 0.01469484921872099, 0.00491733761109466, 0.0]
+Sparsity (non-zero): 81
+Final objective value: 21.977231
+Penalty value: 0.910000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.05
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.001
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.01
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.05
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.1
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 0.5
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 1.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
+==== Kolmogorov Complexity Stress Test ====
+Number of assets: 100
+Gamma (L0 penalty): 0.1
+Eta (L1 penalty): 0.1
+Lambda (risk-return trade-off): 5.0
+
+Final weights: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Sparsity (non-zero): 0
+Final objective value: 0.000000
+Penalty value: 0.000000
+===========================================
+
